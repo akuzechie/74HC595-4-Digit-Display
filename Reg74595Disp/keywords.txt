@@ -1,0 +1,19 @@
+#######################################################
+# Syntax Coloring Map for 74595 4-Digit Display Library
+#######################################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Reg74595Disp 	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+Clear	KEYWORD2
+Num	    KEYWORD2
+Numdp	KEYWORD2
+Char	KEYWORD2
+Text	KEYWORD2
