@@ -1,1 +1,1 @@
-# 74HC595-4-Digit-Display
+# 74HC595 4-Digit Display
